@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="button_text">HELLO</string>
+    <string name="text">SEND</string>
+</resources>
